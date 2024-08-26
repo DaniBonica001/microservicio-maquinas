@@ -21,5 +21,4 @@ public class MachineService {
         return machineRepository.findAll();
     }
 
-
 }
